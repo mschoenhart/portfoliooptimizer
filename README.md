@@ -14,6 +14,7 @@ The main functions are:
 * Compare historical average returns with Black-Litterman implied expected returns
 * Calculate and compare key ratios, manipulate the correlation matrix, f.e. for stress testing purposes
 * Print out a report in Word or HTML and PDF (requires installed pandoc)
+
 ----
 ## Optimization
 
@@ -39,6 +40,7 @@ The main functions are:
     + with weights constraints
     + use your own estimates for expected returns
     + use your own estimates for covariance
+
 ----
 ## Black-Litterman
 <img src='figures/black-litterman.png'/>
@@ -47,6 +49,7 @@ The main functions are:
 
 The Black-Litterman model uses "equilibrium" returns as a neutral starting point.  
 If you "reset returns to adjusted Black-Litterman values" in the "Estimates" tab panel and then optimize for "maximum Sharpe" on the left sidebar panel you will roughly get equal weighting as the result.
+
 ----
 ## Statistics
 
