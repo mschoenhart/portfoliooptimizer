@@ -1,0 +1,29 @@
+---
+title: "Portfolio Report"
+author: "smart Asset Allocation"
+---
+
+# Date `r Sys.Date()`
+
+----
+
+## Asset Correlations
+
+```{r,echo=F}
+      col <-
+        colorRampPalette(
+          c(
+            "#7F0000", "red", "#FF7F00", "yellow", "#7FFF7F","cyan", "#007FFF", "blue", "#00007F"
+          )
+        )
+      corrplot(rv$corrmat,method = "number",col = col(100),tl.col = "Black")
+```
+
+## Portfolio
+
+```{r,echo=F}
+pieplot(portweights(),"Portfolio Weights",colnames(priceData()),xlabels=F)
+```
+
+----
+Contact smartCube Consulting for further information. ![](www/smartcube.gif)
