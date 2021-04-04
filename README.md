@@ -3,7 +3,7 @@
 ----
 <img src='figures/portfoliooptimizer.png'/>
 
-**Portfolio Optimizer** allows you to construct optimal portfolios and asset allocation via state-of-the-art algorithms from computational finance.
+**Portfolio Optimizer** allows you to construct optimal portfolios and your own asset allocation via state-of-the-art algorithms from computational finance.
 You can view performance charts, calculate the stats and view and save the stock price table of important market indices. 
 Use sliders for selecting and constraining portfolio weights and sample size for portfolio optimization.  
 All charts and tables are interactive and will immediately react to your input.

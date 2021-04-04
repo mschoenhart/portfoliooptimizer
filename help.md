@@ -1,6 +1,6 @@
 ---
 title: "Help"
-author: "Portfolio Optimizer"
+author: "Michael Schoenhart"
 date: "20. Juni 2015"
 output: html_document
 ---
