@@ -23,7 +23,7 @@ MINDATAROWS <- 4
 SCALING <- 252
 
 # stock dates
-DATASTARTDATE <- "1999-12-31"
+DATASTARTDATE <- "2004-12-31"
 
 #
 # Functions
