@@ -1,5 +1,6 @@
 # **Portfolio Optimizer** :bar_chart::unicorn:
 ## Demoversion available @ https://smartcube.shinyapps.io/portfoliooptimizer
+## Professional version @ https://smartcube.shinyapps.io/portfoliosuite
 ----
 <img src='figures/portfoliooptimizer.png'/>
 
